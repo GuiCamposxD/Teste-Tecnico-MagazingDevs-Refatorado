@@ -1,0 +1,37 @@
+@media (min-width: 768px) {
+
+    button {
+
+        width: 40%;
+    }
+
+    .fale-mais__texto {
+
+        width: 50%;
+    }
+
+    .tabela-preco {
+
+        width: 75%;
+    }
+
+    .formulario label {
+
+        width: 40%;
+    }
+
+    .formulario select,
+    input {
+        
+        width: 40%;
+    }
+
+    .msg-erro{
+        text-align: justify;
+    }
+
+    .resultado-consulta {
+
+        width: 75%;
+    }
+}

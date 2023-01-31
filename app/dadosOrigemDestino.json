@@ -1,0 +1,46 @@
+[
+    {
+        "origem": "011",
+        "destinos": [
+            {
+                "destino": "016",
+                "taxa": 1.90
+            },
+            {
+                "destino": "017",
+                "taxa": 1.70
+            },
+            {
+                "destino": "018",
+                "taxa": 0.90
+            }
+        ]
+    },
+    {
+        "origem": "016",
+        "destinos": [
+            {
+                "destino": "011",
+                "taxa": 2.90
+            }
+        ]
+    },
+    {
+        "origem": "017",
+        "destinos": [
+            {
+                "destino": "011",
+                "taxa": 2.70
+            }
+        ]
+    },
+    {
+        "origem": "018",
+        "destinos": [
+            {
+                "destino": "011",
+                "taxa": 1.90
+            }
+        ]
+    }
+]
